@@ -1,5 +1,5 @@
 # Clonación masiva de repositorios GitHub
-Script de Python para clonar masivamente todos los repositorios de una cuenta de GitHub. El script creará una carpeta con el nombre repositoriosGit y un archivo de logs con el nombre logs_descarga_repos.txt.
+Script de Python para clonar masivamente todos los repositorios de una cuenta de GitHub. El script creará una carpeta con el nombre **repositoriosGit** y un archivo de logs con el nombre **logs_descarga_repos.txt**.
 
 # Configuración
 Solo se deben ajustar los valores de las siguientes variables con el nombre de la cuenta de GitHub y el token generado en GitHub con permisos para clonar los proyectos.
