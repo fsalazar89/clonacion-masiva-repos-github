@@ -15,5 +15,5 @@ En esta carpeta quedarán alojados todos los repositorios de la cuenta configura
 ## Archivo de logs
 El archivo logs_descarga_repos.txt contendrá un registro de cada repositorio de la cuenta de GitHub. El repositorio que se clone con éxito dejará un registro en el archivo indicando OK y el repositorio que falle en el proceso de clonación dejará un registro indicando FALLO.
 ### Ejemplo:
-repositorio-de-prueba1 ------ OK
-repositorio-de-prueba2 ------- FALLO
+- repositorio-de-prueba1 ------ OK
+- repositorio-de-prueba2 ------- FALLO
